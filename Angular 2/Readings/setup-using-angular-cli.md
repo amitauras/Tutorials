@@ -1,6 +1,7 @@
-# Chapter - 01
+# Basic Angular 2 Project
 
-## Setting up an angular 2 project using angular cli
+## What is Angular 2?
+Angular 2 is client side JavaScript framework used for developing web and mobile applications.
 
 Command | Description
 --- | ---
