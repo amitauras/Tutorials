@@ -7,3 +7,4 @@ Typescript is a super set of JavaScript that compiles to plain JavaScript.
 
 ## Course Videos ##
 1. [Setting up Basic Typescript Project](https://youtu.be/WmeiroTUQyo "Setting up Basic Typescript Project")
+1. [Export and Import in Typescript](https://youtu.be/5XSPTK7zj8U "Export and Import in Typescript")
